@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: "/docs/index.html",
   css: {
     loaderOptions: {
       less: {
